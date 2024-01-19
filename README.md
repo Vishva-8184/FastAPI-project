@@ -41,6 +41,8 @@ This is a FastAPI-based API for managing a book library, using MongoDB as the da
 
 uvicorn main:app --reload
 
+- Access REST API on swagger 'http://localhost:8000/docs'
+
 ### Installation
 
 1. Clone the repository:
